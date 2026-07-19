@@ -1,3 +1,6 @@
+BINDING_HEADER_FARMHUD = "FarmHud"
+BINDING_NAME_FARMHUD_TOGGLE = "Toggle FarmHud"
+
 local ADDON_NAME = "FarmHUD"
 local FarmHud = CreateFrame("frame")
 _G["FarmHud"] = FarmHud

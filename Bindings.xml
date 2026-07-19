@@ -1,0 +1,5 @@
+<Bindings>
+    <Binding name="FARMHUD_TOGGLE" header="FARMHUD">
+        FarmHud:Toggle()
+    </Binding>
+</Bindings>
